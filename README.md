@@ -2,10 +2,6 @@
  💻 Developing is my field of challenge, I like to learn to develop in the field and bring creativity to my projects,
  Here are some of the languages and tools I work with:
  
- https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg
- 
-
-
 
 📧 Contact me here: mini6731504@gmail.com
 
