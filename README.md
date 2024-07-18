@@ -24,7 +24,7 @@
 
 📧 Contact me here: mini6731504@gmail.com
 
-##### 🪁 enthusiastic about creative problem solving and providing high quality solutions, I am ready to take your projects to new heights.
+##### 🪁 Enthusiastic about creative problem solving and providing high quality solutions, I am ready to take your projects to new heights.
 
 
 <!---
