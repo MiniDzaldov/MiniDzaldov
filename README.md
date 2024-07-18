@@ -1,4 +1,4 @@
- 👋 Hi, I’m Mini,
+ ## 👋 Hi, I’m Mini,
  💻 Developing is my field of challenge, I like to learn to develop in the field and bring creativity to my projects,
  Here are some of the languages and tools I work with:
  
@@ -22,8 +22,9 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
 📧 Contact me here: mini6731504@gmail.com
+
+##### 🪁 enthusiastic about creative problem solving and providing high quality solutions, I am ready to take your projects to new heights.
 
 
 <!---
