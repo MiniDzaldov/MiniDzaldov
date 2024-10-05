@@ -3,6 +3,7 @@
  💻 Developing is my field of challenge, I like to learn to develop in the field and bring creativity to my projects,
  Here are some of the languages and tools I work with:
  
+ 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -23,8 +24,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-📧 Contact me here: mini6731504@gmail.com
-
+#### 📧 Contact me here: mini6731504@gmail.com
 ##### 🪁 Enthusiastic about creative problem solving and providing high quality solutions, I am ready to take your projects to new heights.
 
 
